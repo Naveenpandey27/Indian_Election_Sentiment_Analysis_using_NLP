@@ -53,4 +53,6 @@ To analyze sentiment regarding the politicians, this script calculates the perce
 
 The chart provides an overview of the sentiment analysis results for the two politicians.
 
+![chart](https://github.com/Naveenpandey27/Indian_Election_Sentiment_Analysis_using_NLP/assets/66298494/68e3b14e-92e5-476d-812f-ab89257687b1)
+
 Feel free to use and modify this script for your sentiment analysis tasks on political reviews.
